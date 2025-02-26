@@ -1,0 +1,49 @@
+footer {
+  color: rgb(167, 19, 187);
+  height: 100px;
+}
+
+#image {
+  height: 90vh;
+  width: 500px;
+  object-fit: cover;
+  object-position: center;
+}
+
+
+.bottom-container {
+  background-color: #66bfbf;
+  padding: 50px 0 20px;
+  color: white;
+  border-radius: 5px;
+  text-align: center;
+  
+  font-family:  sans-serif;
+  
+  
+    
+}
+
+.bottom-container > a:active{
+    color:green;
+}
+.bottom-container > a:hover{
+    color: white;
+}
+
+.bottom-container > a{
+    color: rgba(52, 14, 219, 0.863);
+    text-decoration: none;
+}
+
+
+
+.copyright {
+    color: #eaf6f6;
+    font-size: 0.75rem;
+    padding: 20px;
+    
+
+    
+  }
+  
